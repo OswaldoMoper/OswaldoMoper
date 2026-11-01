@@ -24,7 +24,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=OswaldoMoper&show_icons=true&theme=tokyonight&card_width=667&show=prs_merged,prs_merged_percentage&hide=contribs
+          options: username=OswaldoMoper&show_icons=true&hide_rank=true&theme=tokyonight&card_width=667&show=prs_merged,prs_merged_percentage&hide=contribs
           token: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
