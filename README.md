@@ -6,6 +6,14 @@ Currently learning to sing and to edit audio (WIP, expect bugs).
 I like building reproducible, clean and non-complex things (systems, projects and relationships)
 I want to understand weird side-effects and magic stacks, or refactor them.
 
+## 🛠️ What I've built
+
+- **[NixosConfig](https://github.com/OswaldoMoper/NixosConfig)**: NixOS modules for several users, machines and apps, with gated deploys, PostgreSQL and monitoring.
+- **[dashboardF1](https://github.com/OswaldoMoper/dashboardF1)**: a live Formula 1 dashboard with a Servant backend, a Reflex frontend and Python telemetry.
+- **[cattleServer](https://github.com/OswaldoMoper/cattleServer)**: automatic PostgreSQL and file backups for several apps.
+
+📄 [My CV (in Spanish)](https://oswaldomoper.com/cv/)
+
 ## 🧠 Skills & Tech Stack
 
 - **Haskell** (Cabal, Nix, Yesod, Lucid)
@@ -40,13 +48,6 @@ I want to understand weird side-effects and magic stacks, or refactor them.
 ![Oswaldo's GitHub stats](profile/stats.svg)
 
 ![Moper's Stats](https://github-readme-streak-stats.herokuapp.com/?user=OswaldoMoper&theme=tokyonight&card_width=667)
-
-<a href="https://github.com/OswaldoMoper/NixosConfig">
-  <img height=120 align="center" src="profile/pin-NixosConfig.svg"/>
-</a>
-<a href="https://github.com/OswaldoMoper/blog">
-  <img height=120 align="center" src="profile/pin-blog.svg"/>
-</a>
 
 ## 🗂️ Roadmap
 

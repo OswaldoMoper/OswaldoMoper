@@ -26,18 +26,6 @@ jobs:
           card: stats
           options: username=OswaldoMoper&show_icons=true&theme=tokyonight&card_width=667&show=prs_merged,prs_merged_percentage&hide=contribs
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=OswaldoMoper&repo=NixosConfig&theme=tokyonight
-          path: profile/pin-NixosConfig.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=OswaldoMoper&repo=blog&theme=tokyonight
-          path: profile/pin-blog.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
