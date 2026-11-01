@@ -35,17 +35,17 @@ I want to understand weird side-effects and magic stacks, or refactor them.
 
 ## 🧪 Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OswaldoMoper&layout=normal&card_width=667&theme=tokyonight&hide=Jupyter+Notebook)
+![Top Langs](profile/top-langs.svg)
 
-![Oswaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OswaldoMoper&show_icons=true&theme=tokyonight&card_width=667&show=prs_merged,prs_merged_percentage&hide=contribs)
+![Oswaldo's GitHub stats](profile/stats.svg)
 
 ![Moper's Stats](https://github-readme-streak-stats.herokuapp.com/?user=OswaldoMoper&theme=tokyonight&card_width=667)
 
 <a href="https://github.com/OswaldoMoper/NixosConfig">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OswaldoMoper&repo=NixosConfig&theme=tokyonight"/>
+  <img height=120 align="center" src="profile/pin-NixosConfig.svg"/>
 </a>
 <a href="https://github.com/OswaldoMoper/blog">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OswaldoMoper&repo=blog&theme=tokyonight"/>
+  <img height=120 align="center" src="profile/pin-blog.svg"/>
 </a>
 
 ## 🗂️ Roadmap
