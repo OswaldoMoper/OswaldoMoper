@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Oswaldo Moya P&#233;rez&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 661, Total PRs: 13, Total PRs Merged: 12, Merged PRs Percentage: 92.31, Total Issues: 1</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 662, Total PRs: 13, Total PRs Merged: 12, Merged PRs Percentage: 92.31, Total Issues: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.48044881527824;
+        stroke-dashoffset: 194.4618943333663;
       }
     }
   
@@ -143,18 +143,7 @@
           transform="translate(0, 55)"
         >
           
-    <g data-testid="rank-circle"
-          transform="translate(590.5, 60)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
-        </text>
-      
-        </g>
-      </g>
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -184,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >661</text>
+      >662</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
